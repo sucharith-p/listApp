@@ -10,7 +10,7 @@ This a non-persistent Todo List Application which highlights your todos as separ
 * Express
 
 ## Setup
-Clone or download this repository using the repository's URL
+Clone or download this repository using the repository's URL <br>
 Run `npm install` to install the dependencies
 
 ## Navigating About
