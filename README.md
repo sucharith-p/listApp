@@ -56,6 +56,10 @@ To run each of the images, copy the image name from the build output and use it 
 ```bash
 $ docker run [image-name]
 ```
+The status of the images running on the docker containers can be viewed using:
+```bash
+$ docker ps
+```
 The application would be up and running in independent containers and can be scaled in a cluster orchestration service such as Kubernetes or on any Cloud Environment.
 
 
