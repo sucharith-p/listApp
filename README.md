@@ -46,7 +46,7 @@ Additionally, each of the sub-folders contains a similar Dockerfile in order to 
 
 The ideal next step for a microservices app is to run it on a container service. In order to run this application on Docker, you would first need to install docker and follow the setup according to your OS on the official [Docker](https://www.docker.com/products/docker-desktop) website.
 
-After installing Docker, start Docker desktop and run `docker -v` to make sure it is up and configured.
+After installing Docker, start Docker desktop and run `docker -v` on the terminal to make sure it is up and configured.
 
 Navigate to each sub-folder and build their respective images using:
 ```bash
