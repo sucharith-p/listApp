@@ -18,8 +18,8 @@ This a non-persistent Todo List Application which highlights your todos as separ
 * Express
 
 ## Setup
-Clone or download this repository using the repository's URL <br>
-Run `npm install` to install the dependencies
+- Clone or download this repository using the repository's URL <br>
+- Run `npm install` to install the dependencies
 
 ## Navigating About
 Each folder is quite independent and states it's purpose.
