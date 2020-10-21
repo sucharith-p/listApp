@@ -7,9 +7,9 @@
 <p align="center">
   <img alt="Landing Page" title="Demo" src="https://github.com/sucharith-p/listApp/blob/master/client/public/Landing_page.png" >
 </p>
-<br>
 <hr>
 <br>
+
 ## Introduction
 This a non-persistent Todo List Application which highlights your todos as separate entities in the form of cards. Rather than using a standard monolithic architecture, it uses microservices to highlight functionality, so that each functionality can be run as an independent service.
 
