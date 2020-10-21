@@ -5,7 +5,7 @@
 <hr>
 <br>
 <p align="center">
-  <img alt="Landing Page" title="Demo" src="https://github.com/sucharith-p/listApp/blob/master/client/public/Landing_page.png" width="500">
+  <img alt="Landing Page" title="Demo" src="https://github.com/sucharith-p/listApp/blob/master/client/public/Landing_page.png" >
 </p>
 <br>
 <hr>
