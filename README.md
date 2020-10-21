@@ -31,7 +31,7 @@ Since this is quite non-persistent, all data archived is stored within the React
 **posts, comments and query :**
 These folders all contain one significant file `index.js` which has express code to make GET and POST requests using Axios.
 
-**Event-bus :**
+**event-bus :**
 The `index.js` file inside this folder acts as a routing mechanism to send out event broadcasts to all other services. For example, when a post is created, an event "Post Created" will be communicated across all other services. 
 
 ## Running the Application
