@@ -11,7 +11,7 @@
 <br>
 
 ## Introduction
-This a non-persistent Todo List Application which highlights your todos as separate entities in the form of cards. Rather than using a standard monolithic architecture, it uses microservices to highlight functionality, so that each functionality can be run as an independent service.
+This is a non-persistent Todo List Application which highlights your todos as separate entities in the form of cards. Rather than using a standard monolithic architecture, it uses microservices to highlight functionality, so that each functionality can be run as an independent service.
 
 ## Built With
 * ReactJS
